@@ -1,66 +1,70 @@
-﻿-- הכנסת נתונים לדוגמה לטבלת Event
-INSERT INTO Event (EveName, EveDate, EveLocation, EvResponsibillity, EveDescribe) VALUES 
-('Fire Drill', TO_DATE('2024-06-01', 'YYYY-MM-DD'), 'Building A', 'Safety Officer', 'Annual fire drill');
-INSERT INTO Event (EveName, EveDate, EveLocation, EvResponsibillity, EveDescribe) VALUES 
-('Earthquake Drill', TO_DATE('2024-07-15', 'YYYY-MM-DD'), 'Building B', 'Emergency Response Team', 'Quarterly earthquake preparedness drill');
+﻿-- insertTables.sql
+-- הכנסת נתונים לטבלאות שנוצרו
 
--- הכנסת נתונים לדוגמה לטבלת RolesP
-INSERT INTO RolesP (RoName, RoId, RoDescribe) VALUES 
-('Manager', 1, 'Manages the team');
-INSERT INTO RolesP (RoName, RoId, RoDescribe) VALUES 
-('Safety Officer', 2, 'Responsible for safety protocols');
+-- הכנסת נתונים לטבלת Event
+INSERT INTO Event (EvId, EveName, EveDate, EveLocation, EvResponsibillity, EveDescribe) VALUES
+(1, 'Emergency Drill', TO_DATE('2023-05-01', 'YYYY-MM-DD'), 'Location A', 'John Doe', 'Monthly drill');
+INSERT INTO Event (EvId, EveName, EveDate, EveLocation, EvResponsibillity, EveDescribe) VALUES
+(2, 'Safety Meeting', TO_DATE('2023-06-15', 'YYYY-MM-DD'), 'Location B', 'Jane Smith', 'Quarterly safety meeting');
 
--- הכנסת נתונים לדוגמה לטבלת EmergencyDrill
-INSERT INTO EmergencyDrill (EmName, EmId, EmDate, EmLocation, EmGuide) VALUES 
-('Fire Drill Training', 1, TO_DATE('2024-06-01', 'YYYY-MM-DD'), 'Building A', 'John Doe');
-INSERT INTO EmergencyDrill (EmName, EmId, EmDate, EmLocation, EmGuide) VALUES 
-('Earthquake Drill Training', 2, TO_DATE('2024-07-15', 'YYYY-MM-DD'), 'Building B', 'Jane Smith');
+-- הכנסת נתונים לטבלת RolesP
+INSERT INTO RolesP (RoId, RoName, RoDescribe) VALUES
+(1, 'Manager', 'Manages team and operations');
+INSERT INTO RolesP (RoId, RoName, RoDescribe) VALUES
+(2, 'Safety Officer', 'Responsible for safety protocols');
 
--- הכנסת נתונים לדוגמה לטבלת EmergenBodies
-INSERT INTO EmergenBodies (BoName, BoId, BoPhone, EveDate) VALUES 
-('Fire Department', 1, 1234567890, TO_DATE('2024-06-01', 'YYYY-MM-DD'));
-INSERT INTO EmergenBodies (BoName, BoId, BoPhone, EveDate) VALUES 
-('Medical Team', 2, 9876543210, TO_DATE('2024-07-15', 'YYYY-MM-DD'));
+-- הכנסת נתונים לטבלת EmergencyDrill
+INSERT INTO EmergencyDrill (EmdrId, EmdrDate, EmdrDurationMinutes, EmdrEmergencyType, EmdrLocation, EmdrParticipantsCount, EmdrAddress) VALUES
+(1, TO_DATE('2023-05-01', 'YYYY-MM-DD'), 60, 'Fire Drill', 'Building 1', 30, '123 Main St');
+INSERT INTO EmergencyDrill (EmdrId, EmdrDate, EmdrDurationMinutes, EmdrEmergencyType, EmdrLocation, EmdrParticipantsCount, EmdrAddress) VALUES
+(2, TO_DATE('2023-06-01', 'YYYY-MM-DD'), 90, 'Earthquake Drill', 'Building 2', 45, '456 Elm St');
 
--- הכנסת נתונים לדוגמה לטבלת EvDebriefing
-INSERT INTO EvDebriefing (DebId, DeResponsibility, DeStatus, DeConclusion) VALUES 
-(1, 'Safety Officer', 1, 'Successful drill');
-INSERT INTO EvDebriefing (DebId, DeResponsibility, DeStatus, DeConclusion) VALUES 
-(2, 'Emergency Response Team', 0, 'Needs improvement');
+-- הכנסת נתונים לטבלת EmergenBodies
+INSERT INTO EmergenBodies (BoId, BoName, BoPhone, EvId) VALUES
+(1, 'Fire Department', 1234567890, 1);
+INSERT INTO EmergenBodies (BoId, BoName, BoPhone, EvId) VALUES
+(2, 'Police Department', 0987654321, 2);
 
--- הכנסת נתונים לדוגמה לטבלת TakingPart
-INSERT INTO TakingPart (BoId, EmId) VALUES 
+-- הכנסת נתונים לטבלת EvDebriefing
+INSERT INTO EvDebriefing (DebId, DeResponsibility, DeStatus, DeConclusion) VALUES
+(1, 'John Doe', 1, 'Successful');
+INSERT INTO EvDebriefing (DebId, DeResponsibility, DeStatus, DeConclusion) VALUES
+(2, 'Jane Smith', 0, 'Needs Improvement');
+
+-- הכנסת נתונים לטבלת TakingPart
+INSERT INTO TakingPart (BoId, EmdrId) VALUES
 (1, 1);
-INSERT INTO TakingPart (BoId, EmId) VALUES 
+INSERT INTO TakingPart (BoId, EmdrId) VALUES
 (2, 2);
 
--- הכנסת נתונים לדוגמה לטבלת TeamP
-INSERT INTO TeamP (TeId, TeAddress, TePhone, TeName, TeEmail, RoId) VALUES 
-(1, '123 Main St', 5551234, 'Alpha Team', 'alpha@example.com', 1);
-INSERT INTO TeamP (TeId, TeAddress, TePhone, TeName, TeEmail, RoId) VALUES 
-(2, '456 Elm St', 5555678, 'Bravo Team', 'bravo@example.com', 2);
+-- הכנסת נתונים לטבלת TeamP
+INSERT INTO TeamP (TeId, TeAddress, TePhone, TeName, TeEmail, RoId) VALUES
+(1, '123 Main St', 5551234, 'Alice Johnson', 'alice@example.com', 1);
+INSERT INTO TeamP (TeId, TeAddress, TePhone, TeName, TeEmail, RoId) VALUES
+(2, '456 Elm St', 5555678, 'Bob Brown', 'bob@example.com', 2);
 
--- הכנסת נתונים לדוגמה לטבלת Worker
-INSERT INTO Worker (WoSalary, TeId) VALUES 
-(50000, 1);
-INSERT INTO Worker (WoSalary, TeId) VALUES 
-(55000, 2);
+-- הכנסת נתונים לטבלת Worker
+INSERT INTO Worker (TeId, WoSalary) VALUES
+(1, 50000);
+INSERT INTO Worker (TeId, WoSalary) VALUES
+(2, 60000);
 
--- הכנסת נתונים לדוגמה לטבלת ActIn
-INSERT INTO ActIn (TeId, EveDate) VALUES 
-(1, TO_DATE('2024-06-01', 'YYYY-MM-DD'));
-INSERT INTO ActIn (TeId, EveDate) VALUES 
-(2, TO_DATE('2024-07-15', 'YYYY-MM-DD'));
-
--- הכנסת נתונים לדוגמה לטבלת Reoprt
-INSERT INTO Reoprt (TeId, DebId) VALUES 
+-- הכנסת נתונים לטבלת ActIn
+INSERT INTO ActIn (TeId, EvId) VALUES
 (1, 1);
-INSERT INTO Reoprt (TeId, DebId) VALUES 
+INSERT INTO ActIn (TeId, EvId) VALUES
 (2, 2);
 
--- הכנסת נתונים לדוגמה לטבלת Practicing
-INSERT INTO Practicing (EmId, TeId) VALUES 
+-- הכנסת נתונים לטבלת Reoprt
+INSERT INTO Reoprt (TeId, DebId) VALUES
 (1, 1);
-INSERT INTO Practicing (EmId, TeId) VALUES 
+INSERT INTO Reoprt (TeId, DebId) VALUES
 (2, 2);
 
+-- הכנסת נתונים לטבלת Practicing
+INSERT INTO Practicing (EmdrId, TeId) VALUES
+(1, 1);
+INSERT INTO Practicing (EmdrId, TeId) VALUES
+(2, 2);
+
+-- סיום הכנסת הנתונים

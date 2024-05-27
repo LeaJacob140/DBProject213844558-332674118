@@ -1,0 +1,400 @@
+590, Nitai Gal, 0, Well Done
+591, Nitai Gal, 1, Improvement required
+592, Nitai Gal, 0, Medium operation
+593, Nitai Gal, 1, Well Done
+594, Nitai Gal, 1, Well Done
+595, Nitai Gal, 1, Failure
+596, Nitai Gal, 0, Failure
+597, Nitai Gal, 0, Medium operation
+598, Nitai Gal, 0, Medium operation
+599, Nitai Gal, 1, Medium operation
+600, Nitai Gal, 0, Medium operation
+601, Nitai Gal, 1, Medium operation
+602, Nitai Gal, 0, Medium operation
+603, Nitai Gal, 0, Medium operation
+604, Nitai Gal, 0, Failure
+605, Nitai Gal, 0, Failure
+606, Nitai Gal, 1, Well Done
+607, Nitai Gal, 1, Well Done
+608, Nitai Gal, 1, Well Done
+609, Nitai Gal, 1, Improvement required
+610, Nitai Gal, 1, Medium operation
+611, Nitai Gal, 1, Improvement required
+612, Nitai Gal, 0, Improvement required
+613, Nitai Gal, 0, Improvement required
+614, Nitai Gal, 0, Well Done
+615, Nitai Gal, 0, Failure
+616, Nitai Gal, 0, Improvement required
+617, Nitai Gal, 1, Well Done
+618, Nitai Gal, 0, Improvement required
+619, Nitai Gal, 1, Improvement required
+620, Nitai Gal, 0, Well Done
+621, Nitai Gal, 1, Improvement required
+622, Nitai Gal, 0, Well Done
+623, Nitai Gal, 1, Well Done
+624, Nitai Gal, 0, Well Done
+625, Nitai Gal, 1, Well Done
+626, Nitai Gal, 0, Improvement required
+627, Nitai Gal, 0, Improvement required
+628, Nitai Gal, 1, Improvement required
+629, Nitai Gal, 1, Well Done
+630, Nitai Gal, 1, Well Done
+631, Nitai Gal, 1, Well Done
+632, Nitai Gal, 1, Well Done
+633, Nitai Gal, 1, Medium operation
+634, Nitai Gal, 0, Medium operation
+635, Nitai Gal, 0, Medium operation
+636, Nitai Gal, 0, Well Done
+637, Nitai Gal, 0, Medium operation
+638, Nitai Gal, 0, Well Done
+639, Nitai Gal, 0, Failure
+640, Nitai Gal, 0, Failure
+641, Nitai Gal, 0, Well Done
+642, Nitai Gal, 0, Failure
+643, Nitai Gal, 0, Failure
+644, Nitai Gal, 0, Well Done
+645, Nitai Gal, 0, Well Done
+646, Nitai Gal, 0, Well Done
+647, Nitai Gal, 1, Well Done
+648, Nitai Gal, 1, Well Done
+649, Nitai Gal, 1, Medium operation
+650, Nitai Gal, 0, Medium operation
+651, Nitai Gal, 0, Well Done
+652, Nitai Gal, 0, Well Done
+653, Nitai Gal, 0, Medium operation
+654, Nitai Gal, 0, Improvement required
+655, Nitai Gal, 0, Well Done
+656, Nitai Gal, 0, Well Done
+657, Nitai Gal, 0, Improvement required
+658, Nitai Gal, 1, Improvement required
+659, Nitai Gal, 1, Well Done
+660, Nitai Gal, 1, Improvement required
+661, Nitai Gal, 1, Well Done
+662, Nitai Gal, 1, Improvement required
+663, Nitai Gal, 0, Improvement required
+664, Nitai Gal, 0, Well Done
+665, Nitai Gal, 0, Well Done
+666, Nitai Gal, 0, Well Done
+667, Nitai Gal, 0, Improvement required
+668, Nitai Gal, 0, Well Done
+669, Nitai Gal, 1, Well Done
+670, Nitai Gal, 0, Improvement required
+671, Nitai Gal, 0, Improvement required
+672, Nitai Gal, 0, Improvement required
+673, Nitai Gal, 1, Failure
+674, Nitai Gal, 1, Failure
+675, Nitai Gal, 1, Failure
+676, Nitai Gal, 0, Failure
+677, Nitai Gal, 0, Failure
+678, Nitai Gal, 0, Medium operation
+679, Nitai Gal, 0, Medium operation
+680, Nitai Gal, 1, Medium operation
+681, Nitai Gal, 1, Medium operation
+682, Nitai Gal, 1, Medium operation
+683, Nitai Gal, 1, Well Done
+684, Nitai Gal, 0, Failure
+685, Nitai Gal, 0, Failure
+686, Nitai Gal, 1, Well Done
+687, Nitai Gal, 0, Improvement required
+688, Nitai Gal, 0, Medium operation
+689, Nitai Gal, 0, Medium operation
+690, Nitai Gal, 1, Medium operation
+691, Nitai Gal, 0, Medium operation
+692, Nitai Gal, 1, Medium operation
+693, Nitai Gal, 0, Medium operation
+694, Nitai Gal, 1, Failure
+695, Nitai Gal, 0, Failure
+696, Nitai Gal, 0, Failure
+697, Nitai Gal, 1, Failure
+698, Nitai Gal, 1, Improvement required
+699, Nitai Gal, 1, Failure
+700, Nitai Gal, 1, Failure
+701, Nitai Gal, 1, Failure
+702, Nitai Gal, 1, Failure
+703, Nitai Gal, 0, Well Done
+704, Nitai Gal, 1, Medium operation
+705, Nitai Gal, 0, Medium operation
+706, Nitai Gal, 0, Medium operation
+707, Nitai Gal, 1, Medium operation
+708, Nitai Gal, 1, Well Done
+709, Nitai Gal, 1, Well Done
+710, Nitai Gal, 1, Well Done
+711, Nitai Gal, 0, Well Done
+712, Nitai Gal, 1, Well Done
+713, Nitai Gal, 0, Well Done
+714, Nitai Gal, 1, Well Done
+715, Nitai Gal, 1, Improvement required
+716, Nitai Gal, 0, Well Done
+717, Nitai Gal, 0, Improvement required
+718, Nitai Gal, 0, Improvement required
+719, Nitai Gal, 0, Medium operation
+720, Nitai Gal, 0, Well Done
+721, Nitai Gal, 0, Well Done
+722, Nitai Gal, 0, Failure
+723, Nitai Gal, 1, Failure
+724, Nitai Gal, 1, Medium operation
+725, Nitai Gal, 1, Medium operation
+726, Nitai Gal, 1, Medium operation
+727, Nitai Gal, 1, Medium operation
+728, Nitai Gal, 1, Medium operation
+729, Nitai Gal, 0, Medium operation
+730, Nitai Gal, 0, Medium operation
+731, Nitai Gal, 0, Failure
+732, Nitai Gal, 1, Failure
+733, Nitai Gal, 0, Well Done
+734, Nitai Gal, 1, Well Done
+735, Nitai Gal, 0, Well Done
+736, Nitai Gal, 0, Improvement required
+737, Nitai Gal, 1, Medium operation
+738, Nitai Gal, 0, Improvement required
+739, Nitai Gal, 1, Improvement required
+740, Nitai Gal, 0, Improvement required
+741, Nitai Gal, 0, Well Done
+742, Nitai Gal, 0, Failure
+743, Nitai Gal, 0, Improvement required
+744, Nitai Gal, 1, Well Done
+745, Nitai Gal, 1, Improvement required
+746, Nitai Gal, 0, Improvement required
+747, Nadav Shalem, 0, Well Done
+748, Nadav Shalem, 1, Improvement required
+749, Nadav Shalem, 0, Well Done
+750, Nadav Shalem, 1, Well Done
+751, Nadav Shalem, 1, Well Done
+752, Nadav Shalem, 0, Well Done
+753, Nadav Shalem, 0, Improvement required
+754, Nadav Shalem, 0, Improvement required
+755, Nadav Shalem, 0, Improvement required
+756, Nadav Shalem, 0, Well Done
+757, Nadav Shalem, 0, Well Done
+758, Nadav Shalem, 0, Well Done
+759, Nadav Shalem, 0, Well Done
+760, Nadav Shalem, 0, Medium operation
+761, Nadav Shalem, 0, Medium operation
+762, Nadav Shalem, 1, Medium operation
+763, Nadav Shalem, 1, Well Done
+764, Nadav Shalem, 1, Medium operation
+765, Nadav Shalem, 1, Well Done
+766, Nadav Shalem, 1, Failure
+767, Nadav Shalem, 1, Failure
+768, Nadav Shalem, 1, Well Done
+769, Nadav Shalem, 1, Failure
+770, Nadav Shalem, 1, Failure
+771, Nadav Shalem, 1, Well Done
+772, Nadav Shalem, 1, Medium operation
+773, Nadav Shalem, 0, Well Done
+774, Nadav Shalem, 0, Well Done
+775, Nadav Shalem, 0, Failure
+776, Nadav Shalem, 1, Failure
+777, Nadav Shalem, 1, Medium operation
+778, Nadav Shalem, 0, Medium operation
+779, Nadav Shalem, 0, Medium operation
+780, Nadav Shalem, 1, Medium operation
+781, Nadav Shalem, 0, Medium operation
+782, Nadav Shalem, 1, Medium operation
+783, Nadav Shalem, 0, Medium operation
+784, Nadav Shalem, 0, Failure
+785, Nadav Shalem, 0, Failure
+786, Nadav Shalem, 1, Well Done
+787, Nadav Shalem, 1, Well Done
+788, Nadav Shalem, 0, Well Done
+789, Nadav Shalem, 1, Improvement required
+790, Nadav Shalem, 0, Medium operation
+791, Nadav Shalem, 1, Improvement required
+792, Nadav Shalem, 1, Improvement required
+793, Nadav Shalem, 1, Improvement required
+794, Nadav Shalem, 1, Well Done
+795, Nadav Shalem, 0, Failure
+796, Nadav Shalem, 0, Improvement required
+797, Nadav Shalem, 0, Well Done
+798, Nadav Shalem, 1, Improvement required
+799, Nadav Shalem, 1, Improvement required
+800, Nadav Shalem, 1, Well Done
+801, Nadav Shalem, 1, Improvement required
+802, Nadav Shalem, 0, Well Done
+803, Nadav Shalem, 0, Well Done
+804, Nadav Shalem, 0, Well Done
+805, Nadav Shalem, 1, Well Done
+806, Nadav Shalem, 1, Improvement required
+807, Nadav Shalem, 1, Improvement required
+808, Nadav Shalem, 1, Improvement required
+809, Nadav Shalem, 0, Well Done
+810, Nitai Gal, 0, Medium operation
+811, Nitai Gal, 0, Medium operation
+812, Nitai Gal, 0, Medium operation
+813, Nitai Gal, 1, Failure
+814, Nitai Gal, 1, Failure
+815, Nitai Gal, 0, Well Done
+816, Nitai Gal, 0, Well Done
+817, Nitai Gal, 1, Well Done
+818, Nitai Gal, 0, Improvement required
+819, Nitai Gal, 1, Medium operation
+820, Nitai Gal, 0, Improvement required
+821, Nitai Gal, 0, Improvement required
+822, Nitai Gal, 0, Improvement required
+823, Nitai Gal, 1, Well Done
+824, Nitai Gal, 1, Failure
+825, Nitai Gal, 0, Improvement required
+826, Nitai Gal, 1, Well Done
+827, Nitai Gal, 0, Improvement required
+828, Nitai Gal, 1, Improvement required
+829, Nitai Gal, 1, Well Done
+830, Nitai Gal, 1, Improvement required
+831, Nitai Gal, 1, Well Done
+832, Nitai Gal, 0, Well Done
+833, Nitai Gal, 0, Medium operation
+834, Nitai Gal, 0, Medium operation
+835, Nitai Gal, 1, Failure
+836, Nitai Gal, 1, Failure
+837, Nitai Gal, 1, Well Done
+838, Nitai Gal, 1, Well Done
+839, Nitai Gal, 0, Well Done
+840, Nitai Gal, 0, Improvement required
+841, Nitai Gal, 0, Medium operation
+842, Nitai Gal, 1, Improvement required
+843, Nadav Shalem, 1, Improvement required
+844, Nadav Shalem, 1, Improvement required
+845, Nadav Shalem, 1, Well Done
+846, Nadav Shalem, 0, Failure
+847, Nadav Shalem, 0, Improvement required
+848, Nadav Shalem, 0, Well Done
+849, Nadav Shalem, 0, Improvement required
+850, Nadav Shalem, 1, Improvement required
+851, Nadav Shalem, 1, Well Done
+852, Nadav Shalem, 0, Improvement required
+853, Nadav Shalem, 0, Well Done
+854, Nadav Shalem, 1, Medium operation
+855, Nadav Shalem, 0, Medium operation
+856, Nadav Shalem, 1, Failure
+857, Nadav Shalem, 0, Failure
+858, Nadav Shalem, 0, Well Done
+859, Nadav Shalem, 0, Well Done
+860, Nadav Shalem, 1, Well Done
+861, Nadav Shalem, 1, Improvement required
+862, Nadav Shalem, 0, Medium operation
+863, Nadav Shalem, 1, Improvement required
+864, Nadav Shalem, 0, Improvement required
+865, Nadav Shalem, 1, Improvement required
+866, Nadav Shalem, 1, Well Done
+867, Nadav Shalem, 1, Failure
+868, Nadav Shalem, 1, Improvement required
+869, Nadav Shalem, 0, Well Done
+870, Nadav Shalem, 0, Improvement required
+871, Nadav Shalem, 0, Improvement required
+872, Nadav Shalem, 1, Well Done
+873, Nadav Shalem, 1, Improvement required
+874, Nadav Shalem, 1, Well Done
+875, Nadav Shalem, 1, Medium operation
+876, Nadav Shalem, 0, Medium operation
+877, Nadav Shalem, 0, Failure
+878, Nadav Shalem, 0, Failure
+879, Nadav Shalem, 1, Well Done
+880, Nadav Shalem, 1, Well Done
+881, Nadav Shalem, 1, Well Done
+882, Nadav Shalem, 1, Improvement required
+883, Nadav Shalem, 0, Medium operation
+884, Nadav Shalem, 0, Improvement required
+885, Nadav Shalem, 0, Improvement required
+886, Nadav Shalem, 0, Improvement required
+887, Nadav Shalem, 1, Well Done
+888, Nadav Shalem, 1, Failure
+889, Nadav Shalem, 1, Improvement required
+890, Nadav Shalem, 1, Well Done
+891, Nadav Shalem, 0, Improvement required
+892, Nadav Shalem, 0, Improvement required
+893, Nadav Shalem, 0, Well Done
+894, Nadav Shalem, 0, Improvement required
+895, Nadav Shalem, 1, Well Done
+896, Nadav Shalem, 1, Medium operation
+897, Nadav Shalem, 0, Medium operation
+898, Nadav Shalem, 0, Failure
+899, Nadav Shalem, 1, Failure
+900, Nadav Shalem, 0, Well Done
+901, Nadav Shalem, 1, Well Done
+902, Nadav Shalem, 0, Well Done
+903, Nadav Shalem, 0, Improvement required
+904, Nadav Shalem, 0, Medium operation
+905, Nadav Shalem, 1, Improvement required
+906, Nitai Gal, 1, Improvement required
+907, Nitai Gal, 1, Improvement required
+908, Nitai Gal, 1, Well Done
+909, Nitai Gal, 0, Failure
+910, Nitai Gal, 0, Improvement required
+911, Nitai Gal, 0, Well Done
+912, Nitai Gal, 0, Improvement required
+913, Nitai Gal, 1, Improvement required
+914, Nitai Gal, 1, Well Done
+915, Nitai Gal, 0, Improvement required
+916, Nitai Gal, 0, Well Done
+917, Nitai Gal, 1, Medium operation
+918, Nitai Gal, 0, Well Done
+919, Nitai Gal, 1, Failure
+920, Nitai Gal, 0, Failure
+921, Nitai Gal, 0, Well Done
+922, Nitai Gal, 0, Failure
+923, Nitai Gal, 1, Failure
+924, Nitai Gal, 1, Well Done
+925, Nitai Gal, 1, Well Done
+926, Nitai Gal, 1, Well Done
+927, Nitai Gal, 0, Well Done
+928, Nitai Gal, 0, Well Done
+929, Nitai Gal, 0, Medium operation
+930, Nitai Gal, 0, Medium operation
+931, Nitai Gal, 1, Well Done
+932, Nitai Gal, 1, Well Done
+933, Nitai Gal, 0, Medium operation
+934, Nitai Gal, 0, Improvement required
+935, Nitai Gal, 1, Medium operation
+936, Nitai Gal, 0, Well Done
+937, Nitai Gal, 1, Failure
+938, Nitai Gal, 0, Failure
+939, Nadav Shalem, 1, Well Done
+940, Nadav Shalem, 0, Failure
+941, Nadav Shalem, 1, Failure
+942, Nadav Shalem, 1, Well Done
+943, Nadav Shalem, 1, Well Done
+944, Nadav Shalem, 0, Well Done
+945, Nadav Shalem, 0, Well Done
+946, Nadav Shalem, 0, Well Done
+947, Nadav Shalem, 1, Medium operation
+948, Nadav Shalem, 0, Medium operation
+949, Nadav Shalem, 1, Well Done
+950, Nadav Shalem, 0, Well Done
+951, Nadav Shalem, 0, Medium operation
+952, Nadav Shalem, 0, Improvement required
+953, Nadav Shalem, 0, Medium operation
+954, Nadav Shalem, 1, Well Done
+955, Nadav Shalem, 1, Failure
+956, Nadav Shalem, 1, Failure
+957, Nadav Shalem, 1, Well Done
+958, Nadav Shalem, 1, Failure
+959, Nadav Shalem, 1, Failure
+960, Nadav Shalem, 0, Well Done
+961, Nadav Shalem, 0, Well Done
+962, Nadav Shalem, 0, Well Done
+963, Nadav Shalem, 0, Well Done
+964, Nadav Shalem, 0, Well Done
+965, Nadav Shalem, 1, Medium operation
+966, Nadav Shalem, 0, Medium operation
+967, Nadav Shalem, 1, Well Done
+968, Nadav Shalem, 0, Well Done
+969, Nadav Shalem, 1, Medium operation
+970, Nadav Shalem, 0, Improvement required
+971, Nadav Shalem, 1, Medium operation
+972, Nadav Shalem, 0, Well Done
+973, Nadav Shalem, 1, Failure
+974, Nadav Shalem, 0, Failure
+975, Nadav Shalem, 0, Well Done
+976, Nadav Shalem, 1, Failure
+977, Nadav Shalem, 1, Failure
+978, Nadav Shalem, 1, Well Done
+979, Nadav Shalem, 1, Well Done
+980, Nadav Shalem, 1, Well Done
+981, Nadav Shalem, 1, Well Done
+982, Nadav Shalem, 0, Well Done
+983, Nadav Shalem, 0, Medium operation
+984, Nadav Shalem, 0, Medium operation
+985, Nadav Shalem, 0, Well Done
+986, Nadav Shalem, 0, Well Done
+987, Nadav Shalem, 0, Medium operation
+988, Nadav Shalem, 0, Improvement required
+989, Nadav Shalem, 0, Well Done
