@@ -1,0 +1,51 @@
+PL/SQL Developer Project
+
+[Options]
+AutoConnect=0
+Username=
+Password=2038
+Database=
+ConnectAs=Normal
+Edition=
+Workspace=
+HaltAfterError=0
+ShowItems=-1
+
+[Groups]
+Constraints=19,
+UpdateQuries=15,16,
+DeleteQueries=17,20,
+SelectQueries=11,12,13,14,
+QueriesParm=18,
+txtData=8,9,10,
+sqlData=6,7,
+DGdata=4,5,
+sqlFiles=0,1,2,3,
+
+[Files]
+1,4,,,DateBases Project Lea and Moriya\insertTable.sql
+1,4,,,DateBases Project Lea and Moriya\SelectTables.sql
+1,4,,,DateBases Project Lea and Moriya\CreateTable.sql
+1,4,,,DateBases Project Lea and Moriya\DropTables.sql
+8,4,,,DateBases Project Lea and Moriya\DGfiles\EventData.gd
+8,4,,,DateBases Project Lea and Moriya\DGfiles\WorkerData.gd
+1,0,,,DateBases Project Lea and Moriya\filesmockaroo\EmergencyDrill.sql
+1,0,,,DateBases Project Lea and Moriya\filesmockaroo\TeamP (1).sql
+0,0,,,DateBases Project Lea and Moriya\txtFiles\DebriefingData.txt
+0,0,,,DateBases Project Lea and Moriya\txtFiles\emergencyBodiesData.txt
+0,0,,,DateBases Project Lea and Moriya\txtFiles\RolesData.txt
+1,0,,,DateBases Project Lea and Moriya\sheiltut\Queries1Select.sql
+1,0,,,DateBases Project Lea and Moriya\sheiltut\Queries2Select.sql
+1,0,,,DateBases Project Lea and Moriya\sheiltut\Queries3Select.sql
+1,0,,,DateBases Project Lea and Moriya\sheiltut\Queries4Select.sql
+1,0,,,DateBases Project Lea and Moriya\sheiltut\Update1.sql
+1,0,,,DateBases Project Lea and Moriya\sheiltut\Update2.sql
+1,0,,,DateBases Project Lea and Moriya\sheiltut\Delete1.sql
+1,0,,,DateBases Project Lea and Moriya\sheiltut\QueriesParam.sql
+1,0,,,DateBases Project Lea and Moriya\sheiltut\Constraints.sql
+1,0,,,DateBases Project Lea and Moriya\sheiltut\Delete2.sql
+
+[Notes]
+{\rtf1\fbidis\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+\viewkind4\uc1\pard\ltrpar\lang1037\f0\fs16 
+\par }
