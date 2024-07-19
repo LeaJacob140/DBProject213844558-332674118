@@ -1,0 +1,10 @@
+UPDATE Operator SET IdPromission = 12345 WHERE TeId = 401;
+UPDATE Operator SET IdPromission = 23456 WHERE TeId = 402;
+UPDATE Operator SET IdPromission = 34567 WHERE TeId = 403;
+UPDATE Operator SET IdPromission = 45678 WHERE TeId = 404;
+UPDATE Operator SET IdPromission = 56789 WHERE TeId = 405;
+UPDATE Operator SET IdPromission = 67890 WHERE TeId = 406;
+UPDATE Operator SET IdPromission = 78901 WHERE TeId = 407;
+UPDATE Operator SET IdPromission = 89012 WHERE TeId = 408;
+UPDATE Operator SET IdPromission = 90123 WHERE TeId =409;
+UPDATE Operator SET IdPromission = 1234 WHERE TeId = 410;
