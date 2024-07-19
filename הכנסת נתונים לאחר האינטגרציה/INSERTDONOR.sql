@@ -1,0 +1,10 @@
+INSERT INTO DonerTo (DonationDate, DonationId, DonorID, BoId) VALUES (TO_DATE('2024-07-18', 'YYYY-MM-DD'), 1, 1010, 890);
+INSERT INTO DonerTo (DonationDate, DonationId, DonorID, BoId) VALUES (TO_DATE('2024-07-19', 'YYYY-MM-DD'), 2, 95, 891);
+INSERT INTO DonerTo (DonationDate, DonationId, DonorID, BoId) VALUES (TO_DATE('2024-07-20', 'YYYY-MM-DD'), 3, 96, 892);
+INSERT INTO DonerTo (DonationDate, DonationId, DonorID, BoId) VALUES (TO_DATE('2024-07-21', 'YYYY-MM-DD'), 4, 99, 893);
+INSERT INTO DonerTo (DonationDate, DonationId, DonorID, BoId) VALUES (TO_DATE('2024-07-22', 'YYYY-MM-DD'), 5, 107, 894);
+INSERT INTO DonerTo (DonationDate, DonationId, DonorID, BoId) VALUES (TO_DATE('2024-07-23', 'YYYY-MM-DD'), 6, 108, 895);
+INSERT INTO DonerTo (DonationDate, DonationId, DonorID, BoId) VALUES (TO_DATE('2024-07-24', 'YYYY-MM-DD'), 7, 117, 896);
+INSERT INTO DonerTo (DonationDate, DonationId, DonorID, BoId) VALUES (TO_DATE('2024-07-25', 'YYYY-MM-DD'), 8, 118, 897);
+INSERT INTO DonerTo (DonationDate, DonationId, DonorID, BoId) VALUES (TO_DATE('2024-07-26', 'YYYY-MM-DD'), 9, 161, 898);
+INSERT INTO DonerTo (DonationDate, DonationId, DonorID, BoId) VALUES (TO_DATE('2024-07-27', 'YYYY-MM-DD'), 10, 167, 899);
