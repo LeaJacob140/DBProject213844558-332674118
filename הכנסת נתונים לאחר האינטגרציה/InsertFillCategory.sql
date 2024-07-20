@@ -1,0 +1,10 @@
+INSERT INTO DrillCategoryOf (EmdrId, CategoryID) VALUES (1, 403);
+INSERT INTO DrillCategoryOf (EmdrId, CategoryID) VALUES (22, 404);
+INSERT INTO DrillCategoryOf (EmdrId, CategoryID) VALUES (16, 405);
+INSERT INTO DrillCategoryOf (EmdrId, CategoryID) VALUES (136, 406);
+INSERT INTO DrillCategoryOf (EmdrId, CategoryID) VALUES (96, 407);
+INSERT INTO DrillCategoryOf (EmdrId, CategoryID) VALUES (317, 408);
+INSERT INTO DrillCategoryOf (EmdrId, CategoryID) VALUES (342, 409);
+INSERT INTO DrillCategoryOf (EmdrId, CategoryID) VALUES (22, 410);
+INSERT INTO DrillCategoryOf (EmdrId, CategoryID) VALUES (681, 411);
+INSERT INTO DrillCategoryOf (EmdrId, CategoryID) VALUES (876, 412);
