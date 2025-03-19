@@ -1,0 +1,10 @@
+UPDATE EmergencyDrill SET CategoryID = 403 WHERE EmdrId = 1;
+UPDATE EmergencyDrill SET CategoryID = 404 WHERE EmdrId = 2;
+UPDATE EmergencyDrill SET CategoryID = 405 WHERE EmdrId = 3;
+UPDATE EmergencyDrill SET CategoryID = 406 WHERE EmdrId = 4;
+UPDATE EmergencyDrill SET CategoryID = 407 WHERE EmdrId = 5;
+UPDATE EmergencyDrill SET CategoryID = 408 WHERE EmdrId = 6;
+UPDATE EmergencyDrill SET CategoryID = 409 WHERE EmdrId = 7;
+UPDATE EmergencyDrill SET CategoryID = 410 WHERE EmdrId = 8;
+UPDATE EmergencyDrill SET CategoryID = 411 WHERE EmdrId = 9;
+UPDATE EmergencyDrill SET CategoryID = 412 WHERE EmdrId = 10;
